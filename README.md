@@ -5,7 +5,7 @@
 
 ## Video Demonstration
 
-[![Watch the video](img/model1.png)](img/model.webm)
+[![Watch the video](img/model.gif)]
 
 
 ## Overview
