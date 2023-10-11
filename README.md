@@ -3,6 +3,11 @@
 ![Image 1](img/model1.png)
 ![Image 2](img/model2.png)
 
+## Video Demonstration
+
+[![Watch the video](img/model1.png)](img/model.webm)
+
+
 ## Overview
 
 The Personal Finance Manager is a simple Python application built with Streamlit and SQLAlchemy to help users track their income and expenses. This README provides an overview of the project, its features, and instructions for running it on your local machine.
@@ -14,6 +19,7 @@ The Personal Finance Manager is a simple Python application built with Streamlit
 - **Data Visualization**: Visualize income and expense data over time using line charts.
 - **Currency Formatting**: Display amounts in a user-friendly currency format.
 - **Data Persistence**: Store your financial data in an SQLite database.
+
 
 ## Getting Started
 
