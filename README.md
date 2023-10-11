@@ -5,8 +5,7 @@
 
 ## Video Demonstration
 
-[![Watch the video](img/model.gif)]
-
+![Watch the video](img/model.gif)
 
 ## Overview
 
